@@ -11,10 +11,29 @@ h1 {
     background-color:coral;
 }
 
+label{
+    
+}
+
+input {
+    margin-top 20pt;
+}
+
 .filter{
     margin-left: 20pt;
 }
+
+#filter1b{
+    margin-top: 20pt;
+}
+
 .genre{
+    margin-left: 20pt;
+}
+.release{
+    margin-left: 20pt;
+}
+.rating{
     margin-left: 20pt;
 }
 
@@ -28,11 +47,22 @@ h1 {
 
 .row-lower-margin-bottom{
     margin-bottom: 0pt;
+    float: left;
 }
 
 .row-no-margin-bottom{
     margin-bottom: 0pt;
 }
+
+
+
+label {
+  float: left;
+  clear: none;
+  display: block;
+  padding: 2px 1em 0 0;
+}
+
 
 
 </style>
