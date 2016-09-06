@@ -1,0 +1,38 @@
+<style>
+.orElement {
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+     font-size: 20pt;
+    text-align: center;
+    background-color:coral;
+}
+
+.filter{
+    margin-left: 20pt;
+}
+.genre{
+    margin-left: 20pt;
+}
+
+.filter-release{
+    margin-left: 20pt;
+}
+
+.filter-rating{
+    margin-left: 20pt;
+}
+
+.row-lower-margin-bottom{
+    margin-bottom: 0pt;
+}
+
+.row-no-margin-bottom{
+    margin-bottom: 0pt;
+}
+
+
+</style>
