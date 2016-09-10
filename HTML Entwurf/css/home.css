@@ -29,12 +29,15 @@ input {
 
 .genre{
     margin-left: 20pt;
+    margin-top: 30pt;
 }
 .release{
     margin-left: 20pt;
+    margin-top: 30pt;
 }
 .rating{
     margin-left: 20pt;
+    margin-top: 30pt;
 }
 
 .filter-release{
